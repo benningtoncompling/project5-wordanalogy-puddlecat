@@ -1,0 +1,2 @@
+euclidian distance: 40mins
+manhattan disance: closer to 30

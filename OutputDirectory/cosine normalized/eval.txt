@@ -1,0 +1,57 @@
+
+capital-common-countries.txt
+accuracy: 40.11857707509881%
+time: 195.81911611557007
+skipped (due to word(s) missing from model): 0
+capital-world.txt
+accuracy: 19.07603890362511%
+time: 1748.404560804367
+skipped (due to word(s) missing from model): 0
+city-in-state.txt
+accuracy: 4.458856911228212%
+time: 952.2699851989746
+skipped (due to word(s) missing from model): 0
+currency.txt
+accuracy: 17.66743648960739%
+time: 301.18129110336304
+skipped (due to word(s) missing from model): 87
+family.txt
+accuracy: 20.55335968379447%
+time: 162.41388988494873
+skipped (due to word(s) missing from model): 86
+gram1-adjective-to-adverb.txt
+accuracy: 1.7137096774193548%
+time: 359.3619661331177
+skipped (due to word(s) missing from model): 62
+gram2-opposite.txt
+accuracy: 0.49261083743842365%
+time: 314.1391296386719
+skipped (due to word(s) missing from model): 0
+gram3-comparative.txt
+accuracy: 11.036036036036036%
+time: 516.3985314369202
+skipped (due to word(s) missing from model): 0
+gram4-superlative.txt
+accuracy: 2.13903743315508%
+time: 420.63469338417053
+skipped (due to word(s) missing from model): 33
+gram5-present-participle.txt
+accuracy: 1.9886363636363635%
+time: 408.50657534599304
+skipped (due to word(s) missing from model): 0
+gram6-nationality-adjective.txt
+accuracy: 63.35209505941213%
+time: 617.8334865570068
+skipped (due to word(s) missing from model): 0
+gram7-past-tense.txt
+accuracy: 1.858974358974359%
+time: 605.254647731781
+skipped (due to word(s) missing from model): 0
+gram8-plural.txt
+accuracy: 6.906906906906906%
+time: 529.0365569591522
+skipped (due to word(s) missing from model): 0
+gram9-plural-verbs.txt
+accuracy: 7.7011494252873565%
+time: 345.95196175575256
+skipped (due to word(s) missing from model): 0
